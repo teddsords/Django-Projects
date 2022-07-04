@@ -1,1 +1,3 @@
 venv/
+*.zip
+Django course/btre_resources
